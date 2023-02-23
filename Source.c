@@ -7,7 +7,8 @@
 
 
 int main() { 
-	printf("anjae lagii");
+	printf("anjae lagii\n");
+	printf("oke sipp");
 
 	return 0;
 }

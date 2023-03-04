@@ -1,5 +1,6 @@
 # TugasWPC_Ahmad-Hafidz-Aliim
-buat wpc anjae
 
-cek
-cek
+Nama  : Ahmad Hafidz Aliim <br/>
+NIM	  : 13221055 <br/>
+Hobi  : Menghabiskan waktu <br />
+Alasan Join WS : pengen ngoprek tapi biar keren
